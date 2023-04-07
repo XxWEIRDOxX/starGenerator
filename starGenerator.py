@@ -73,8 +73,8 @@ class infoGatherer:
     fake = Faker()
     GITHUB_API = 'https://api.github.com'
     GITHUB = 'https://github.com'
-    GITHUB_REPO = ''
-    GITHUB_USER= ''
+    GITHUB_REPO = 'https://github.com/HDROIDSCRIPT/Synapse-x-Cracked-Roblox-Exploit'
+    GITHUB_USER= 'https://github.com/HDROIDSCRIPT'
     torDirectory = ''
     users = {}
 
